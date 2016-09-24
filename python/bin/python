@@ -1,2 +1,2 @@
 #!/bin/sh
-exec python2 $@
+exec python2.7 $@
